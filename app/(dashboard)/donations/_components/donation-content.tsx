@@ -86,9 +86,6 @@ export default function DonationsContent() {
     totalPage: data?.totalPage || 1,
   };
 
-
-  console.log('DDDDDDDDDDDDDDDDDDDDD', donations)
-
   return (
     <div className="space-y-6">
       <div>
